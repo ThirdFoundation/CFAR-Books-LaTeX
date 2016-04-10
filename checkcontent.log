@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 JAN 2016 19:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  25 MAR 2016 09:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -303,74 +303,78 @@ e
 
 \AtBeginShipoutBox=\box35
 (./doc/Shared/glossary.tex
-Overfull \hbox (23.99998pt too wide) in alignment at lines 2--43
+Overfull \hbox (23.99998pt too wide) in alignment at lines 1--42
  [] [] 
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 48--49
+Underfull \hbox (badness 5490) in paragraph at lines 47--48
 []|\OT1/cmr/m/n/12 The gen-eral term for pro-cesses which seek to re-solve
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 bugs, whether in-ter-nal/emotional/motivational or ex-ter-
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 48--49
+Underfull \hbox (badness 1248) in paragraph at lines 47--48
 \OT1/cmr/m/n/12 nal/logistical/actionable. Of-ten, de-bug-ging in-volves brain-
 
  []
 
 
-Overfull \hbox (23.99998pt too wide) in alignment at lines 43--83
+Overfull \hbox (23.99998pt too wide) in alignment at lines 42--82
  [] [] 
  []
 
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
 ]
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 84.
+(Font)              <12> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 84.
+(Font)              <8> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 84.
+(Font)              <6> on input line 83.
 
-Overfull \hbox (23.99998pt too wide) in alignment at lines 83--123
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\OT1/cmr/bx/n/12 Metacognitive
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in alignment at lines 82--122
  [] [] 
  []
 
 [3] [4]
-Overfull \hbox (23.99998pt too wide) in alignment at lines 123--163
+Overfull \hbox (23.99998pt too wide) in alignment at lines 122--162
  [] [] 
  []
 
-[5] [6] [7]
-Overfull \hbox (23.99998pt too wide) in alignment at lines 163--184
+[5] [6] [7] [8]
+Overfull \hbox (23.99998pt too wide) in alignment at lines 162--197
  [] [] 
  []
 
-[8] [9] [10] [11] [12] [13]) (./checkcontent.aux) ) 
+[9] [10] [11] [12] [13] [14]) (./checkcontent.aux) ) 
 Here is how much of TeX's memory you used:
  4214 strings out of 493089
  59988 string characters out of 6134842
- 172327 words of memory out of 5000000
+ 173845 words of memory out of 5000000
  7641 multiletter control sequences out of 15000+600000
  8072 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,39p,758b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on checkcontent.pdf (13 pages, 85204 bytes).
+ 38i,8n,39p,972b,241s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on checkcontent.pdf (14 pages, 89081 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 62 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,21 +1,23 @@
-\documentclass[12pt, letterpaper, openany]{book}
+\documentclass[10pt, letterpaper, openany]{book}
 	\usepackage{graphicx}
 	\usepackage{natbib}
-	\usepackage[margin=1in]{geometry}
+	\usepackage[margin=.7in, paperwidth=6in, paperheight=9in]{geometry}
 	\usepackage{longtable}
-	\setlength{\parskip}{1em}
 	\usepackage{pdfpages}
 	\usepackage{pifont}
 	\usepackage{enumitem}
+	\usepackage{array}
+	\usepackage{setspace}
 	\usepackage{titlesec}
-		\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\bf}
-		\titlespacing{\section}{0pt}{*3}{*0}
-		\titlespacing{\chapter}{0pt}{*-2}{*3}
+		\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{16pt}{\huge\bf}
+		\titlespacing{\section}{0pt}{*2}{*0}
+		\titlespacing{\chapter}{0pt}{*-3}{*3}
 		\titlespacing{\subsection}{0pt}{*0}{*0}
 		\titlespacing{\subsubsection}{0pt}{*0}{*0}
 		\renewcommand{\chaptername}{}
 	\usepackage{enumitem}
 		\setlist{itemsep=.5pt}
+	\setlength{\parskip}{1em}
 
 \title{\includegraphics[scale=0.35]{../../../img/logo.png}\\Applied Rationality Handbook}
 \author{Berkeley 2016}
@@ -23,21 +25,30 @@
 \pagestyle{headings}
 
 \begin{document}
-	\frontmatter
 	\maketitle
-	\mainmatter
+	\input{../howto.tex}
 	\tableofcontents
-	\part*{Day 0}
-		\addcontentsline{toc}{part}{Day 0}		
-		\chapter{What is ``Applied Rationality''?}
+	\part*{Introduction}
+		\addcontentsline{toc}{part}{Introduction}	
+		\clearpage
+			\addcontentsline{toc}{chapter}{What is ``Applied Rationality''?}
 			\input{../../Shared/intro.tex}		
-		\chapter{Advice from Opening Session}
-			\input{../opening/poets.tex}
+		\chapter*{Advice from Opening Session}
+			\addcontentsline{toc}{chapter}{Advice from Opening Session}
+			\input{../opening/quiche.tex}
+			\input{../opening/boggle.tex}
 			\input{../opening/trythings.tex}
 			\input{../opening/bepresent.tex}
-			\input{../opening/conversations.tex}
-	\part*{Day 1}
-		\addcontentsline{toc}{part}{Day 1}
-		\chapter{Inner Simulator}
+	\part*{Core Classes}
+	\clearpage
+		\addcontentsline{toc}{part}{Core Classes}
+			\addcontentsline{toc}{chapter}{Inner Simulator}
 			\input{../innersim.tex}
+	\part*{Flash Classes}
+		\addcontentsline{toc}{part}{Flash Classes}
+	\part*{Additional Resources}
+		\addcontentsline{toc}{part}{Additional Resources}
+		\chapter*{Glossary}
+			\addcontentsline{toc}{chapter}{Glossary}
+			\input{../../Shared/glossary.tex}
 \end{document}

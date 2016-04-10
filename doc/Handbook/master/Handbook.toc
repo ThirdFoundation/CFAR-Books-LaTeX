@@ -1,11 +1,13 @@
-\contentsline {part}{Day 0}{3}
-\contentsline {chapter}{\numberline {1}What is ``Applied Rationality''?}{3}
-\contentsline {chapter}{\numberline {2}Advice from Opening Session}{5}
-\contentsline {subsubsection}{Signs that you're heading in the right direction:}{8}
-\contentsline {subsubsection}{Signs that it's time to try something different:}{8}
-\contentsline {part}{Day 1}{10}
-\contentsline {chapter}{\numberline {3}Inner Simulator}{10}
-\contentsline {subsubsection}{What happens next?}{11}
-\contentsline {subsubsection}{How shocked am I?}{11}
-\contentsline {subsubsection}{What went right/wrong?}{11}
-\contentsline {subsubsection}{Asking for Examples}{12}
+\contentsline {part}{Introduction}{5}
+\contentsline {chapter}{What is ``Applied Rationality''?}{5}
+\contentsline {chapter}{Advice from Opening Session}{7}
+\contentsline {part}{Core Classes}{12}
+\contentsline {chapter}{Inner Simulator}{12}
+\contentsline {subsubsection}{What happens next?}{14}
+\contentsline {subsubsection}{How shocked am I?}{14}
+\contentsline {subsubsection}{What went right/wrong?}{14}
+\contentsline {subsubsection}{Asking for Examples}{15}
+\contentsline {subsubsection}{Searching for Next Actions}{16}
+\contentsline {part}{Flash Classes}{22}
+\contentsline {part}{Additional Resources}{23}
+\contentsline {chapter}{Glossary}{23}
